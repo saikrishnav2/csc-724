@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "433249817346",
+    "firebase_url": "https://smartphonedistributedcomputing.firebaseio.com",
+    "project_id": "smartphonedistributedcomputing",
+    "storage_bucket": "smartphonedistributedcomputing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433249817346:android:2975ff0392e4dbe0",
+        "android_client_info": {
+          "package_name": "distcomp.csc724"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433249817346-uhiqorb7nseu3601p1aea8om6tbbe3er.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "distcomp.csc724",
+            "certificate_hash": "be146a886ca83d6abaf31974702f1efa574bfbfe"
+          }
+        },
+        {
+          "client_id": "433249817346-qprem1o6f6ra6ahhkun29932qgr3ieg7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpEyLKpqyjHbEziTzgOaiZ3EN9vcQs8U8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433249817346-qprem1o6f6ra6ahhkun29932qgr3ieg7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
